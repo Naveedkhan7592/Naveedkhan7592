@@ -25,7 +25,7 @@
 - 🔭 Currently working on data analysis projects (check out `Tips_data` and `Tips_dataAnalysis` below)
 - 🌱 Learning: <!-- e.g. Python, SQL, Power BI, machine learning -->
 - 💬 Ask me about: <!-- e.g. data cleaning, EDA, visualization -->
-- 📫 Reach me at: [YOUR_EMAIL@example.com](naveedkhanmet@gmail.com)
+- 📫 Reach me at: [naveedkhanmet@gmail.com](naveedkhanmet@gmail.com)
 
 ---
 
