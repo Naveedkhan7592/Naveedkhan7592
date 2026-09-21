@@ -1,64 +1,54 @@
-<h1 align="center">Hi 👋, I'm Naveed Anwer Khan</h1>
-<h3 align="center">Data Analyst | Data Science Enthusiast | Turning raw data into insights</h3>
+# Hi 👋, I'm Naveed Anwer Khan
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naveed592/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/naveedanwerkhan" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <!-- Add more badges below as you like: Twitter, Medium, etc. -->
-  <!--
-  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  -->
-</p>
+### AI/ML Engineer | Agentic Workflows & Applied Machine Learning | Python
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveed592/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveedkhanmet@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/naveedanwerkhan)
 
 ---
 
-### 🧭 About me
-- 🔭 Currently working on data analysis projects (check out `Tips_data` and `Tips_dataAnalysis` below)
-- 🌱 Learning: <!-- e.g. Python, SQL, Power BI, machine learning -->
-- 💬 Ask me about: <!-- e.g. data cleaning, EDA, visualization -->
-- 📫 Reach me at: [naveedkhanmet@gmail.com](naveedkhanmet@gmail.com)
+## 🧭 About Me
+
+- 🤖 I build **agentic AI workflows** and applied ML solutions — from LLM-powered automation agents to computer vision pipelines.
+- 🔭 Currently building: an **n8n-based WhatsApp AI agent** using Google Gemini with Google Sheets and Gmail tool integrations.
+- 🧠 Also working with: object detection (YOLO/Ultralytics), clustering (K-Means), and classification workflows in scikit-learn.
+- 🌱 Learning: RAG systems, LangChain, and production deployment patterns for LLM apps.
+- 💼 15+ years of professional experience in data analysis, reporting automation, and process optimisation — now focused full-time on AI/ML engineering.
+- 📫 Reach me at: [naveedkhanmet@gmail.com](mailto:naveedkhanmet@gmail.com)
 
 ---
 
-### 🛠️ Languages & tools
+## 📌 Featured Projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,sklearn,jupyter,sqlite,git,html,css,vscode" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
+- **[WhatsApp AI Agent (n8n + Gemini)](#)** — Agentic workflow connecting Google Gemini LLM to WhatsApp via n8n, with tool integrations for Google Sheets and Gmail to automate real business tasks.
+- **[YOLO Object Detection](#)** — Applied computer vision project using Ultralytics YOLO for object detection.
+- **[Eris_data (Iris Classification)](https://github.com/Naveedkhan7592/Eris_data)** — End-to-end ML classification workflow (EDA, Logistic Regression, KNN, evaluation) using scikit-learn.
 
-<!--
-Swap the icon list above for whatever you actually use. Common options:
-python, r, sql, pandas, numpy, sklearn, tensorflow, pytorch, powerbi, tableau,
-excel, git, github, docker, linux, vscode, jupyter, mysql, postgres
-Full list: https://skillicons.dev
-n8n isn't in skillicons, so it's added as a shields.io badge instead.
--->
+*(Update the `#` links above once each project repo is published.)*
 
 ---
 
-### 📊 GitHub stats
+## 🛠️ Languages & Tools
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Naveedkhan7592&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveedkhan7592&layout=compact" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📌 Featured projects
-- [**Tips_data**](https://github.com/Naveedkhan7592/Tips_data) — <!-- one-line description -->
-- [**Tips_dataAnalysis**](https://github.com/Naveedkhan7592/Tips_dataAnalysis) — <!-- one-line description -->
+## 📊 GitHub Stats
+
+![Naveed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveedkhan7592&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveedkhan7592&layout=compact)
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to connect!</i></p>
+*Open to AI/ML Engineer roles — always happy to connect and talk about agentic AI, automation, and applied machine learning.*
